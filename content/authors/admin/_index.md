@@ -12,7 +12,7 @@ social:
       header: false
     link: https://scholar.google.com/citations?user=jzwbDaYAAAAJ&hl=en
     icon_pack: ai
-    icon: fa-researchgate
+    icon: google-scholar
     label: Google Scholar
   - display:
       header: false
@@ -23,8 +23,8 @@ social:
       header: false
     icon_pack: ai
     icon: researchgate
-    label: test
-    link: test
+    label: ResearchGate
+    link: https://www.researchgate.net/profile/Shambhavi-Singh-2
 organizations:
   - name: University of British Columbia Okanagan
     url: https://ok.ubc.ca/
