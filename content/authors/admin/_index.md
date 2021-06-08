@@ -13,6 +13,11 @@ social:
     link: https://scholar.google.com/citations?user=jzwbDaYAAAAJ&hl=en
     icon_pack: ai
     icon: <i class="fab fa-researchgate"></i>
+  - display:
+      header: false
+    link: https://cmps.ok.ubc.ca/about/contact/shambhavi-singh/
+    icon_pack: ai
+    icon: fa-researchgate
 organizations:
   - name: University of British Columbia Okanagan
     url: https://ok.ubc.ca/
