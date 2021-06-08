@@ -19,6 +19,12 @@ social:
     link: https://cmps.ok.ubc.ca/about/contact/shambhavi-singh/
     icon_pack: ai
     icon: fa-researchgate
+  - display:
+      header: false
+    icon_pack: ai
+    icon: researchgate
+    label: test
+    link: test
 organizations:
   - name: University of British Columbia Okanagan
     url: https://ok.ubc.ca/
