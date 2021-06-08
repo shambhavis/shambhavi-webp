@@ -6,9 +6,6 @@ bio: My research interests include convex analysis and convex optimization
 interests:
   - Convex Analysis
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - display:
       header: false
     link: https://scholar.google.com/citations?user=jzwbDaYAAAAJ&hl=en
@@ -26,6 +23,9 @@ social:
     icon: researchgate
     label: ResearchGate
     link: https://www.researchgate.net/profile/Shambhavi-Singh-2
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: University of British Columbia Okanagan
     url: https://ok.ubc.ca/
@@ -41,6 +41,8 @@ email: sambha@student.ubc.ca
 superuser: true
 highlight_name: false
 ---
+I am a graduate student at UBC Okanagan. I enjoy XYZ
+
 Shambhavi Singh is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
