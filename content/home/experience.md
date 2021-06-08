@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assistant
     company: UBCO
     company_url: ''
-    company_logo: org-ubco
+    company_logo: org-X
     location: British Columbia
     date_start: '2019-09-01'
     date_end: ''
