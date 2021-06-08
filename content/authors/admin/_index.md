@@ -1,6 +1,7 @@
 ---
 title: Shambhavi Singh
 role: Graduate Student
+avatar_filename: photo.jpg
 bio: My research interests include convex analysis and convex optimization
 interests:
   - Convex Analysis
