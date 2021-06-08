@@ -1,13 +1,13 @@
 ---
-abstract: " simplex, the convex hull of a set of 𝑛+1 affinely independent
+abstract: " simplex, the convex hull of a set of n+1 affinely independent
   points, is a useful tool in derivative-free optimization. The term uniform
   simplex was used by Audet and Hare (Derivative-free and blackbox optimization.
   Springer series in operations research and financial engineering, Springer,
   Cham, 2017). The purpose of this paper is to provide a framework for
-  constructing a uniform simplex in ℝ𝑛, which can then be aligned with a given
-  vector. We prove that a uniform simplex has the greatest normalized volume of
-  any simplex. Moreover, we show how to create a uniform minimal positive basis
-  from a uniform simplex."
+  constructing a uniform simplex in $$\\mathbb{R}^n$$, which can then be aligned
+  with a given vector. We prove that a uniform simplex has the greatest
+  normalized volume of any simplex. Moreover, we show how to create a uniform
+  minimal positive basis from a uniform simplex."
 slides: ""
 url_pdf: ""
 publication_types:
@@ -16,10 +16,7 @@ authors:
   - G Jarry-Bolduc
   - P Nadeau
   - S Singh
-author_notes:
-  - Equal contribution
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In Optimization Letterss
 summary: ""
 url_dataset: ""
