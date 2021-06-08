@@ -22,19 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant
-    company: UBCO
-    company_url: ''
-    company_logo: org-X
-    location: British Columbia
-    date_start: '2019-09-01'
-    date_end: ''
-    description: |2-
-        I teach every winter term, my latest assignments were:
-        
-        * W2020 Term 2: DATA 410\STAT 538, MATH 126
-        * W2020 Term 1: MATH 319
-        * W2019 Term 2: MATH 101
   
   - title: CEO
     company: GenCoin
