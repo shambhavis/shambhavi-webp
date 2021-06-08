@@ -18,8 +18,8 @@ social:
   - display:
       header: false
     link: https://cmps.ok.ubc.ca/about/contact/shambhavi-singh/
-    icon_pack: ai
-    icon: fa-researchgate
+    icon_pack: far
+    icon: address-card
   - display:
       header: false
     icon_pack: ai
