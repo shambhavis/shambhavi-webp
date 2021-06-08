@@ -20,7 +20,7 @@ abstract: "Given a piecewise-defined function, checking whether it is convex is
   structure of piecewise quadratic functions and optimization problems involving
   convexity constraints."
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
