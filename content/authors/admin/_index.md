@@ -12,7 +12,8 @@ social:
       header: false
     link: https://scholar.google.com/citations?user=jzwbDaYAAAAJ&hl=en
     icon_pack: ai
-    icon: <i class="fab fa-researchgate"></i>
+    icon: fa-researchgate
+    label: Google Scholar
   - display:
       header: false
     link: https://cmps.ok.ubc.ca/about/contact/shambhavi-singh/
