@@ -33,8 +33,8 @@ organizations:
     url: https://ok.ubc.ca/
 education:
   courses:
-    - course: PhD in Mathematics
-      institution: University of British Columbia
+    - course: PhD in Mathematics (Ongoing)
+      institution: University of British Columbia Okanagan
     - course: MSc in Computer Science
       institution: University of British Columbia Okanagan
       year: 2019
