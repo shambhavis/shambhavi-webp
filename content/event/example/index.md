@@ -27,7 +27,7 @@ links:
   - url: https://ocana.ok.ubc.ca/wcom21/abstracts.php#shambhavi
     name: WCOM Schedule
     icon_pack: fas
-    icon: fa-calendar-week
+    icon: calendar-week
 publishDate: 2021-06-15T16:22:46.206Z
 tags: []
 projects:

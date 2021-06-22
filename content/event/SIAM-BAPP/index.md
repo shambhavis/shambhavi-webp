@@ -22,16 +22,12 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  country: Online
 links:
   - url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=72012
     name: SIAM Minisymposium agenda
     icon_pack: fas
-    icon: fa-calendar-week
+    icon: calendar-week
 publishDate: 2021-06-22T17:53:21.794Z
 tags: []
 projects:

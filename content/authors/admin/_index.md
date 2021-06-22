@@ -1,6 +1,6 @@
 ---
-title: "Shambhavi Singh "
-role: /ʃambhəvi/
+title: "Shambhavi Singh /ʃambhəvi/"
+role: Graduate Student
 avatar_filename: avatar.jpg
 bio: Mathematician in convex analysis and convex optimization
 interests:

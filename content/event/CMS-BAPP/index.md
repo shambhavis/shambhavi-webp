@@ -27,7 +27,7 @@ links:
   - url: https://www2.cms.math.ca/Events/summer21/schedule_session#vat
     name: CMS Session Schedule
     icon_pack: fas
-    icon: fa-calendar-week
+    icon: calendar-week
 publishDate: 2021-06-22T17:14:56.883Z
 tags: []
 projects:
