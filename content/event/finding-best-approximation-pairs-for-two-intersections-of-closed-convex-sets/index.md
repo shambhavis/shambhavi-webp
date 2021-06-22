@@ -15,8 +15,8 @@ location: CMS Summer Meeting (Online)
 date: 2021-06-10T20:00:00.000Z
 date_end: 2021-06-10T20:30:00.000Z
 all_day: false
-event: West Coast Optimization Meeting 2021
-event_url: https://ocana.ok.ubc.ca/wcom21/wcom.php
+event: CMS 75th+1 Anniversary Summer Meeting
+event_url: https://summer21.cms.math.ca/
 featured: false
 authors: []
 url_video: ""
@@ -28,7 +28,10 @@ address:
   postcode: "94305"
   country: United States
 links:
-  - url: https://ocana.ok.ubc.ca/wcom21/abstracts.php#shambhavi
+  - url: https://www2.cms.math.ca/Events/summer21/schedule_session#vat
+    name: Session Schedule
+    icon_pack: far
+    icon: calendar-week
 publishDate: 2021-06-22T17:14:56.883Z
 tags: []
 projects:
