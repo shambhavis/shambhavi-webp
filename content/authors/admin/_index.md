@@ -2,7 +2,7 @@
 title: "Shambhavi Singh "
 role: /ʃambhəvi/
 avatar_filename: avatar.jpg
-bio: My research interests include convex analysis and convex optimization
+bio: Mathematician in convex analysis and convex optimization
 interests:
   - Convex Analysis
 social:
@@ -45,4 +45,4 @@ highlight_name: false
 ---
 I am a graduate student at UBC Okanagan. I work in continuous convex optimization with Dr Heinz Bauschke and Dr Shawn Wang.
 
-I enjoy listening (and sometimes playing) music, taking photographs, reading, cooking and other human activities.
+I enjoy listening to (and sometimes playing) music, taking photographs, reading, cooking and other human activities.
