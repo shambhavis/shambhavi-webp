@@ -1,5 +1,5 @@
 ---
-title: "Shambhavi Singh /ʃambhəvi/"
+title: Shambhavi Singh /ʃambhəvi/
 role: Graduate Student
 avatar_filename: avatar.jpg
 bio: Mathematician in convex analysis and convex optimization
@@ -43,6 +43,6 @@ email: sambha@student.ubc.ca
 superuser: true
 highlight_name: false
 ---
-I am a graduate student at UBC Okanagan. I work in continuous convex optimization with Dr Heinz Bauschke and Dr Shawn Wang.
+I am a graduate student at UBC Okanagan. I work in continuous convex optimization with Dr Heinz Bauschke and Dr Shawn Wang. My name is pronounced [/ʃambhəvi/](https://itinerarium.github.io/phoneme-synthesis/?w=/ʃambhəvi/)
 
 I enjoy listening to (and sometimes playing) music, taking photographs, reading, cooking and other human activities.
