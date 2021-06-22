@@ -9,7 +9,7 @@ abstract: The problem of finding a best approximation pair of two sets, which in
   competitive and sometimes superior to the one proposed by Aharoni et al.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Finding BAPP for two convex sets with nice decompositions
 title: Finding best approximation pairs for two intersections of closed convex sets
 location: WCOM (Online)
 date: 2020-05-13T20:20:00.000Z
@@ -22,11 +22,7 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  country: Online
 links:
   - url: https://ocana.ok.ubc.ca/wcom21/abstracts.php#shambhavi
 publishDate: 2021-06-15T16:22:46.206Z
@@ -36,6 +32,6 @@ projects:
 image:
   caption: ""
   focal_point: Right
-  filename: creationadam.jpg
+  filename: cradam.jpg
 url_code: ""
 ---
