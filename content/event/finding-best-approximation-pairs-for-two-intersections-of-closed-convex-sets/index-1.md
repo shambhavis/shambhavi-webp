@@ -32,7 +32,7 @@ links:
     name: SIAM Minisymposium agenda
     icon_pack: far
     icon: calendar-week
-publishDate: 2021-06-22T17:15:25.754Z
+publishDate: 2021-06-22T17:53:21.794Z
 tags: []
 projects:
   - ConvexOpt
