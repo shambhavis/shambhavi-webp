@@ -22,16 +22,12 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  country: Online
 links:
   - url: https://www2.cms.math.ca/Events/summer21/schedule_session#vat
-    name: Session Schedule
-    icon_pack: far
-    icon: calendar-week
+    name: CMS Session Schedule
+    icon_pack: fas
+    icon: fa-calendar-week
 publishDate: 2021-06-22T17:14:56.883Z
 tags: []
 projects:

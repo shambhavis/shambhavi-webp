@@ -30,8 +30,8 @@ address:
 links:
   - url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=72012
     name: SIAM Minisymposium agenda
-    icon_pack: far
-    icon: calendar-week
+    icon_pack: fas
+    icon: fa-calendar-week
 publishDate: 2021-06-22T17:53:21.794Z
 tags: []
 projects:
