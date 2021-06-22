@@ -32,6 +32,6 @@ projects:
 image:
   caption: ""
   focal_point: Right
-  filename: cradam.jpg
+  filename: featured.jpg
 url_code: ""
 ---
