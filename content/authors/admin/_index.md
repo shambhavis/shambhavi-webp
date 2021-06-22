@@ -1,6 +1,6 @@
 ---
-title: Shambhavi Singh
-role: Graduate Student
+title: "Shambhavi Singh "
+role: /ʃambhəvi/
 avatar_filename: avatar.jpg
 bio: My research interests include convex analysis and convex optimization
 interests:
@@ -31,6 +31,8 @@ organizations:
     url: https://ok.ubc.ca/
 education:
   courses:
+    - course: PhD in Mathematics
+      institution: University of British Columbia
     - course: MSc in Computer Science
       institution: University of British Columbia Okanagan
       year: 2019
@@ -41,8 +43,6 @@ email: sambha@student.ubc.ca
 superuser: true
 highlight_name: false
 ---
-I am a graduate student at UBC Okanagan. I enjoy XYZ
+I am a graduate student at UBC Okanagan. I work in continuous convex optimization with Dr Heinz Bauschke and Dr Shawn Wang.
 
-Shambhavi Singh is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I enjoy listening (and sometimes playing) music, taking photographs, reading, cooking and other human activities.
