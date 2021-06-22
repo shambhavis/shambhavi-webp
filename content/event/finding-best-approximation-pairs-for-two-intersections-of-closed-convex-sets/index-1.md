@@ -15,8 +15,8 @@ location: SIAM Conference on Optimization (Online)
 date: 2021-07-23T20:45:25.726Z
 date_end: 2021-07-23T21:10:00.000Z
 all_day: false
-event: West Coast Optimization Meeting 2021
-event_url: https://ocana.ok.ubc.ca/wcom21/wcom.php
+event: SIAM Conference on Optimization
+event_url: https://www.siam.org/conferences/cm/conference/op21
 featured: false
 authors: []
 url_video: ""
@@ -28,7 +28,10 @@ address:
   postcode: "94305"
   country: United States
 links:
-  - url: https://ocana.ok.ubc.ca/wcom21/abstracts.php#shambhavi
+  - url: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=72012
+    name: SIAM Minisymposium agenda
+    icon_pack: far
+    icon: calendar-week
 publishDate: 2021-06-22T17:15:25.754Z
 tags: []
 projects:
