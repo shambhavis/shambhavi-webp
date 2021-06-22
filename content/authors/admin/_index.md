@@ -1,6 +1,6 @@
 ---
 title: Shambhavi Singh
-role: Graduate Student at UBC Okanagan
+role: Graduate Student
 avatar_filename: avatar.jpg
 bio: Mathematician in convex analysis and convex optimization
 interests:
