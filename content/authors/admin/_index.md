@@ -45,6 +45,6 @@ email: sambha@student.ubc.ca
 superuser: true
 highlight_name: false
 ---
-I work in continuous convex optimization. My supervisors are Dr. Heinz Bauschke and Dr. Shawn Wang. My name is pronounced [/ʃambhəvi/](https://itinerarium.github.io/phoneme-synthesis/?w=/ʃambhəvi/).
+I work in continuous convex optimization. My supervisors are Dr. Heinz Bauschke and Dr. Shawn Wang. My name is pronounced [/ʃambhəvi/](http://ipa-reader.xyz/?text=%20%CA%83ambh%C9%99vi).
 
 I enjoy listening to and playing music, taking [photographs](https://www.flickr.com/photos/shambhavisingh/), reading, cooking and other human activities.
